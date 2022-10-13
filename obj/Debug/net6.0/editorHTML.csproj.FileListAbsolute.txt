@@ -1,0 +1,15 @@
+C:\Users\Lucas\editorHTML\bin\Debug\net6.0\editorHTML.exe
+C:\Users\Lucas\editorHTML\bin\Debug\net6.0\editorHTML.deps.json
+C:\Users\Lucas\editorHTML\bin\Debug\net6.0\editorHTML.runtimeconfig.json
+C:\Users\Lucas\editorHTML\bin\Debug\net6.0\editorHTML.dll
+C:\Users\Lucas\editorHTML\bin\Debug\net6.0\editorHTML.pdb
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.csproj.AssemblyReference.cache
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.AssemblyInfoInputs.cache
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.AssemblyInfo.cs
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.dll
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\refint\editorHTML.dll
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.pdb
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\editorHTML.genruntimeconfig.cache
+C:\Users\Lucas\editorHTML\obj\Debug\net6.0\ref\editorHTML.dll
